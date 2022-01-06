@@ -1,5 +1,5 @@
 Django==3.0.7
-celery==4.4.5
+celery==5.2.2
 numpy==1.18.5
 pandas==1.0.4
 python-dateutil==2.8.1
